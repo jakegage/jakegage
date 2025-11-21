@@ -1,4 +1,4 @@
-[![GitHub release](https://img.shields.io/github/release/jakegage/jakegage.svg?label=release)](https://github.com/jakegage/jakegage/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/jakegage/jakegage.svg?label=release)](https://github.com/jakegage/jakegage/releases/latest) [![Contributors](https://img.shields.io/github/contributors/jakegage/jakegage.svg)](https://github.com/jakegage/jakegage/graphs/contributors)
 
 ```mermaid
 architecture-beta
