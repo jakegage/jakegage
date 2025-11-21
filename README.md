@@ -1,3 +1,5 @@
+[![GitHub release](https://img.shields.io/github/release/jakegage/jakegage.svg?label=release)](https://github.com/jakegage/jakegage/releases/latest)
+
 ```mermaid
 architecture-beta
     group api(cloud)[API]
